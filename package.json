@@ -1,0 +1,16 @@
+{
+  "name": "e2e-doclink",
+  "version": "1.0.0",
+  "description": "e2e tests for Doclink project",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp protractor"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-protractor": "^4.1.0",
+    "selenium-server-standalone-jar": "^3.5.3"
+  }
+}
