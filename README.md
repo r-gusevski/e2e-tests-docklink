@@ -1,27 +1,27 @@
 # e2e-tests-docklink
-e2e tests
+e2e tests for Doclink template
 
-### Installing
+## Installing
 
-##Install NodeJS version 6.X.X and later
+###Install NodeJS version 6.X.X and later
 
-##Install JDK version 8 and later
+###Install JDK version 8 and later
 
-##Write in console npm install
+###Write in console npm install
 
 ```
 npm install
 ```
 
-### Running the tests
+## Running the tests
 
-##Started with Google Chrome:
+###Started with Google Chrome:
 
 ```
 npm test
 ```
 
-##Started with PhantomJS:
+###Started with PhantomJS:
 
 Write in console for start PhantomJs server:
 
