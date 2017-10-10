@@ -5,7 +5,6 @@ exports.config = {
     //seleniumAddress: 'http://localhost:9515',
     specs: ['specs/*-spec.js'],
     capabilities: {
-        //phantomjs --webdriver=9515
         //'browserName': 'phantomjs'
         'browserName': 'chrome'
     }
